@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm Liliana Morones 👋 
+
+## 🚀 About Me
+I'm a Biomedical Engineer in the process of transitioning into the world of data analysis. I have a working knowledge of Python, SQL, Tableau, and Power BI and am eager to continue learning and growing in these areas. My passion for technology drives me to seek opportunities as a data analyst to gain practical experience and further develop my skills.
 
 <!--
 **LiliMorAlba/LiliMorAlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
