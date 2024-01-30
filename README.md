@@ -1,7 +1,7 @@
 ### Hi! I'm Liliana Morones 👋 
 
 #### 🚀 About Me
-I'm a Biomedical Engineer in the process of transitioning into the world of data analysis. I have a working knowledge of Python, SQL, Tableau, and Power BI and am eager to continue learning and growing in these areas. My passion for technology drives me to seek opportunities as a data analyst to gain practical experience and further develop my skills.
+Biomedical Engineer focused on Data Analysis, with 4+ years in the healthcare industry. Proficient in Python, SQL, Power BI, Tableau, and Excel. Developed analytical, solution-focused skills through medical equipment maintenance and coordination. Experience in collaboration and translation of results for non-technical audiences. Always eager to learn, very adaptable in the workplace, organized, responsible, and work well independently as well as with others. Seeking a Data Analyst position to learn and collaborate with a professional team to grow my career.
 
 <!--
 **LiliMorAlba/LiliMorAlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
